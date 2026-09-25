@@ -4,7 +4,7 @@ A lightweight, mobile-first prototype for **AJJ 2027: Shifting Borders**, taking
 
 ## Prototype features
 
-- Home and practical information
+- Home, conference theme, and practical information
 - Example two-day program
 - Live-style “Now & Next” view with preview times
 - Session and abstract pages
